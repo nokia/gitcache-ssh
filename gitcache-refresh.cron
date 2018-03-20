@@ -1,0 +1,1 @@
+*/5 * * * * root /usr/bin/parallel -j 4 -l 3 -i /usr/bin/git -C "{}" remote update --prune -- $(find /var/cache/git/ -type d -name "*.git") 2>&1 | /usr/bin/logger -t "gitcache-refresh[$$]" -p info
