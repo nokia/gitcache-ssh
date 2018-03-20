@@ -1,0 +1,2 @@
+VERSION := 1.3
+REVISION := 1
