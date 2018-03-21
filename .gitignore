@@ -1,0 +1,8 @@
+gitcache-ssh
+gitcache-ssh-*
+tests.xml
+vet.report
+*.swp
+.vscode/*
+*.deb
+*.rpm
