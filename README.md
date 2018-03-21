@@ -1,6 +1,8 @@
+[![Build Status](https://travis-ci.org/nokia/gitcache-ssh.svg?branch=master)](https://travis-ci.org/nokia/gitcache-ssh)
+
 # gitcache-ssh
 
-`gitcache-ssh` is a simple Git cache
+`gitcache-ssh` is a simple SSH based Git cache.
 
 ## Building
 
