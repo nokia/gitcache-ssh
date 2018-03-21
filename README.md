@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.org/nokia/gitcache-ssh.svg?branch=master)](https://travis-ci.org/nokia/gitcache-ssh)
+[![Maintainability](https://api.codeclimate.com/v1/badges/ad5d773a12b517ed5735/maintainability)](https://codeclimate.com/github/nokia/gitcache-ssh/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/ad5d773a12b517ed5735/test_coverage)](https://codeclimate.com/github/nokia/gitcache-ssh/test_coverage)
 
 # gitcache-ssh
 
