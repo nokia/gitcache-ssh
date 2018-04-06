@@ -44,7 +44,7 @@ import (
 	"strconv"
 	"strings"
 	"syscall"
-  "golang.org/x/crypto/ssh/terminal"
+	"golang.org/x/crypto/ssh/terminal"
 
 	log "github.com/sirupsen/logrus"
 	lSyslog "github.com/sirupsen/logrus/hooks/syslog"

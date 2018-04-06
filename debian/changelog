@@ -1,0 +1,5 @@
+gitcache-ssh (1.4-1) UNRELEASED; urgency=medium
+
+  * Initial native Debian packaged release.
+
+ -- Nicola Worthington <nicola.worthington@nokia.com>  Fri,  6 Apr 2018 13:29:29 +0000

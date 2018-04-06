@@ -1,4 +1,5 @@
 gitcache-ssh
+gitcache-ssh.1
 gitcache-ssh-*
 tests.xml
 vet.report
