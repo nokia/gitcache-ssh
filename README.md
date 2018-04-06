@@ -6,6 +6,16 @@
 
 `gitcache-ssh` is a simple SSH based Git cache.
 
+This tool was conceived and written to dramatically reduce the bandwidth
+consumed by developers and CI/CD build and test systems that constantly
+communicate with geographically remote Git repositories.
+
+It is designed to be (for the most part, after initial setup), transparrent to
+the user or automation systems that are using it.
+
+It provides an asymetric (pull/read-only) cache function to shim between the Git
+client and the originating remote upstream Git repository.
+
 ## Building
 
 ```
